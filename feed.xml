@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geospatial Intelligence: From First Principles</title>
+    <atom:link href="https://brokepm.github.io/geo-course/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://brokepm.github.io/geo-course</link>
+    <language>en-us</language>
+    <description>A foundational course covering how satellite data, remote sensing, and AI foundation models come together to monitor the physical world. Walks through the history of the field from Cold War spy satellites to today's daily-revisit constellations, the physics of how different sensors actually see the Earth, the data infrastructure, the AI models being built on top, and the business landscape. Approximately 5 hours total, designed to be listened to sequentially.</description>
+    <itunes:author>Claude</itunes:author>
+    <itunes:summary>A foundational course covering how satellite data, remote sensing, and AI foundation models come together to monitor the physical world. Walks through the history of the field from Cold War spy satellites to today's daily-revisit constellations, the physics of how different sensors actually see the Earth, the data infrastructure, the AI models being built on top, and the business landscape. Approximately 5 hours total, designed to be listened to sequentially.</itunes:summary>
+    <itunes:subtitle>A 13-part audio course on satellites, sensors, and AI for the physical world</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:owner>
+      <itunes:name>Claude</itunes:name>
+      <itunes:email>noreply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://brokepm.github.io/geo-course/cover.png"/>
+    <image>
+      <url>https://brokepm.github.io/geo-course/cover.png</url>
+      <title>Geospatial Intelligence: From First Principles</title>
+      <link>https://brokepm.github.io/geo-course</link>
+    </image>
+    <item>
+      <title>Module 12 — The 2026 Geospatial AI Frontier</title>
+      <description>Where the field is genuinely stuck. Registration at scale. Cross-sensor generalization. Temporal reasoning. Causal inference from observation. What the next two to three years probably bring: on-orbit inference, agentic geospatial reasoning, and physical-world simulation. Where a research-first founding team can actually have an edge.</description>
+      <itunes:summary>Where the field is genuinely stuck. Registration at scale. Cross-sensor generalization. Temporal reasoning. Causal inference from observation. What the next two to three years probably bring: on-orbit inference, agentic geospatial reasoning, and physical-world simulation. Where a research-first founding team can actually have an edge.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/12-frontiers.m4a" length="41339129" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/frontiers</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:21:24</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 11 — Why Your Geo-AI Model Isn't Enough</title>
+      <description>The architectural choices that matter. Build versus buy imagery. Foundation model strategy. Data infrastructure. The labeled-data flywheel. Go-to-market patterns in geospatial. The regulatory tailwinds that create forced demand: EUDR, CSRD, ISSB, and EPA methane rules. Where the moat actually lives.</description>
+      <itunes:summary>The architectural choices that matter. Build versus buy imagery. Foundation model strategy. Data infrastructure. The labeled-data flywheel. Go-to-market patterns in geospatial. The regulatory tailwinds that create forced demand: EUDR, CSRD, ISSB, and EPA methane rules. Where the moat actually lives.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/11-startup.m4a" length="32760130" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/startup</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:16:58</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 10 — Where the Money Lives in Orbit</title>
+      <description>Who actually pays for geospatial intelligence and how much. Insurance with Cape Analytics and Betterview. Defense and GEOINT with Maxar and BlackSky. Climate measurement, reporting, and verification with Pachama and Sylvera. Commodities and supply chain with Orbital Insight and Kayrros. Why a Bloomberg-for-physical-assets framing fits the asset intelligence thesis.</description>
+      <itunes:summary>Who actually pays for geospatial intelligence and how much. Insurance with Cape Analytics and Betterview. Defense and GEOINT with Maxar and BlackSky. Climate measurement, reporting, and verification with Pachama and Sylvera. Commodities and supply chain with Orbital Insight and Kayrros. Why a Bloomberg-for-physical-assets framing fits the asset intelligence thesis.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/10-business.m4a" length="32987953" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/business</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:17:05</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 09 — Why Satellite Intelligence Needs Token-Level Fusion</title>
+      <description>The hard part. How do you combine optical imagery, SAR, weather, AIS shipping data, ADS-B aircraft data, news, and filings into one coherent representation? Early versus late versus token-level fusion. Why this is the actual frontier of the field, and why a true world model for Earth is fundamentally a fusion problem.</description>
+      <itunes:summary>The hard part. How do you combine optical imagery, SAR, weather, AIS shipping data, ADS-B aircraft data, news, and filings into one coherent representation? Early versus late versus token-level fusion. Why this is the actual frontier of the field, and why a true world model for Earth is fundamentally a fusion problem.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/09-fusion.m4a" length="51568387" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/fusion</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 08 — Geospatial Foundation Models: From Prithvi to AlphaEarth</title>
+      <description>A deep dive on the current foundation models: Prithvi, Clay, TerraMind, AlphaEarth Foundations, DOFA, SatMAE, and SpectralEarth. Plus the weather models GraphCast, Aurora, and Pangu. What each is good at, what data they were trained on, current benchmark rankings, and where the field is heading.</description>
+      <itunes:summary>A deep dive on the current foundation models: Prithvi, Clay, TerraMind, AlphaEarth Foundations, DOFA, SatMAE, and SpectralEarth. Plus the weather models GraphCast, Aurora, and Pangu. What each is good at, what data they were trained on, current benchmark rankings, and where the field is heading.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/08-foundation-models.m4a" length="46167255" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/foundation-models</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 07 — From Static Maps to Planetary AI</title>
+      <description>The progression from hand-engineered features to convolutional neural networks like U-Net, then to vision transformers, self-supervised pretraining, and multimodal foundation models. Why geospatial machine learning is not just computer vision applied to satellite images. The temporal dynamics, multi-band data, and registration challenges that make this its own field.</description>
+      <itunes:summary>The progression from hand-engineered features to convolutional neural networks like U-Net, then to vision transformers, self-supervised pretraining, and multimodal foundation models. Why geospatial machine learning is not just computer vision applied to satellite images. The temporal dynamics, multi-band data, and registration challenges that make this its own field.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/07-geo-ml.m4a" length="44392311" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/geo-ml</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:22:59</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 06 — The Classical Math Behind Satellite AI</title>
+      <description>Before machine learning ate everything. Vegetation indices like NDVI, supervised classification with random forests, change detection methods, atmospheric correction, and orthorectification. Why this still matters: it works, the incumbents are built on it, and it's the baseline every modern paper compares against.</description>
+      <itunes:summary>Before machine learning ate everything. Vegetation indices like NDVI, supervised classification with random forests, change detection methods, atmospheric correction, and orthorectification. Why this still matters: it works, the incumbents are built on it, and it's the baseline every modern paper compares against.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/06-classical-rs.m4a" length="43539165" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/classical-rs</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 05 — Satellite Data: From Pixels to Pipelines</title>
+      <description>How raw pixels become queryable analytics. Raster versus vector data, projections and coordinate reference systems, the SpatioTemporal Asset Catalog standard, Cloud-Optimized GeoTIFFs, Zarr, and tiling schemes. How Google Earth Engine and Microsoft Planetary Computer actually work. The unsexy infrastructure layer where most startups die.</description>
+      <itunes:summary>How raw pixels become queryable analytics. Raster versus vector data, projections and coordinate reference systems, the SpatioTemporal Asset Catalog standard, Cloud-Optimized GeoTIFFs, Zarr, and tiling schemes. How Google Earth Engine and Microsoft Planetary Computer actually work. The unsexy infrastructure layer where most startups die.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/05-data-layer.m4a" length="45312639" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/data-layer</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:28</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 04 — Querying the Physical World From Orbit</title>
+      <description>Low Earth Orbit, sun-synchronous orbits, geostationary, and what each is good for. Why Planet Labs runs 200-plus small satellites while Maxar runs four large ones. The economics of revisit time. The new SAR constellations. The SpaceX Transporter rideshare revolution and who actually owns the sky in 2026.</description>
+      <itunes:summary>Low Earth Orbit, sun-synchronous orbits, geostationary, and what each is good for. Why Planet Labs runs 200-plus small satellites while Maxar runs four large ones. The economics of revisit time. The new SAR constellations. The SpaceX Transporter rideshare revolution and who actually owns the sky in 2026.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/04-orbits.m4a" length="45276781" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/orbits</guid>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 03 — Five Satellite Sensors Making Hiding Obsolete</title>
+      <description>Optical, SAR, thermal, hyperspectral, and lidar. What each sensor type detects, what real-world questions each can answer, and why fusing multiple modalities is where the real signal lives. Concrete examples like methane leak detection, roof damage assessment, and ground subsidence monitoring.</description>
+      <itunes:summary>Optical, SAR, thermal, hyperspectral, and lidar. What each sensor type detects, what real-world questions each can answer, and why fusing multiple modalities is where the real signal lives. Concrete examples like methane leak detection, roof damage assessment, and ground subsidence monitoring.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/03-sensors.m4a" length="45707826" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/sensors</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 02 — The Physics of Satellite Earth Observation</title>
+      <description>The electromagnetic spectrum and why different bands reveal different physical properties. Why optical imagery is blocked by clouds but synthetic aperture radar sees through them. Active versus passive sensing. The relationship between wavelength, resolution, and what a satellite can actually detect.</description>
+      <itunes:summary>The electromagnetic spectrum and why different bands reveal different physical properties. Why optical imagery is blocked by clouds but synthetic aperture radar sees through them. Active versus passive sensing. The relationship between wavelength, resolution, and what a satellite can actually detect.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/02-physics.m4a" length="44331777" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/physics</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 01 — Spy Satellites to AI Foundation Models</title>
+      <description>How we got here. From CORONA spy satellites in the 1960s through Landsat 1 in 1972, the commercialization of high-resolution imagery with IKONOS in 1999, the cubesat revolution led by Planet Labs, the SAR commercialization wave with Capella and ICEYE, and the foundation model era from 2023 onward.</description>
+      <itunes:summary>How we got here. From CORONA spy satellites in the 1960s through Landsat 1 in 1972, the commercialization of high-resolution imagery with IKONOS in 1999, the cubesat revolution led by Planet Labs, the SAR commercialization wave with Capella and ICEYE, and the foundation model era from 2023 onward.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/01-history.m4a" length="42237097" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/history</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Module 00 — The $100 Billion Dollar Geospatial Economy</title>
+      <description>What geospatial intelligence is, why the field is having a moment in 2026, and how to think about the major sub-segments: asset intelligence, world models, defense GEOINT, climate, and commodities. Sets up the vocabulary and framing for the rest of the course.</description>
+      <itunes:summary>What geospatial intelligence is, why the field is having a moment in 2026, and how to think about the major sub-segments: asset intelligence, world models, defense GEOINT, climate, and commodities. Sets up the vocabulary and framing for the rest of the course.</itunes:summary>
+      <enclosure url="https://brokepm.github.io/geo-course/episodes/00-economy.m4a" length="41877743" type="audio/mp4"/>
+      <guid isPermaLink="false">https://brokepm.github.io/geo-course/episodes/economy</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

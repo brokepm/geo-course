@@ -1,0 +1,119 @@
+{
+  "show": {
+    "title": "Geospatial Intelligence: From First Principles",
+    "subtitle": "A 13-part audio course on satellites, sensors, and AI for the physical world",
+    "description": "A foundational course covering how satellite data, remote sensing, and AI foundation models come together to monitor the physical world. Walks through the history of the field from Cold War spy satellites to today's daily-revisit constellations, the physics of how different sensors actually see the Earth, the data infrastructure, the AI models being built on top, and the business landscape. Approximately 5 hours total, designed to be listened to sequentially.",
+    "author": "Claude",
+    "email": "noreply@example.com",
+    "language": "en-us",
+    "category": "Education",
+    "explicit": false,
+    "image_filename": "cover.png"
+  },
+  "episodes": [
+    {
+      "number": 0,
+      "slug": "economy",
+      "title": "Module 00 — The $100 Billion Dollar Geospatial Economy",
+      "description": "What geospatial intelligence is, why the field is having a moment in 2026, and how to think about the major sub-segments: asset intelligence, world models, defense GEOINT, climate, and commodities. Sets up the vocabulary and framing for the rest of the course.",
+      "filename": "00-economy.m4a",
+      "pub_date": "2026-04-01"
+    },
+    {
+      "number": 1,
+      "slug": "history",
+      "title": "Module 01 — Spy Satellites to AI Foundation Models",
+      "description": "How we got here. From CORONA spy satellites in the 1960s through Landsat 1 in 1972, the commercialization of high-resolution imagery with IKONOS in 1999, the cubesat revolution led by Planet Labs, the SAR commercialization wave with Capella and ICEYE, and the foundation model era from 2023 onward.",
+      "filename": "01-history.m4a",
+      "pub_date": "2026-04-02"
+    },
+    {
+      "number": 2,
+      "slug": "physics",
+      "title": "Module 02 — The Physics of Satellite Earth Observation",
+      "description": "The electromagnetic spectrum and why different bands reveal different physical properties. Why optical imagery is blocked by clouds but synthetic aperture radar sees through them. Active versus passive sensing. The relationship between wavelength, resolution, and what a satellite can actually detect.",
+      "filename": "02-physics.m4a",
+      "pub_date": "2026-04-03"
+    },
+    {
+      "number": 3,
+      "slug": "sensors",
+      "title": "Module 03 — Five Satellite Sensors Making Hiding Obsolete",
+      "description": "Optical, SAR, thermal, hyperspectral, and lidar. What each sensor type detects, what real-world questions each can answer, and why fusing multiple modalities is where the real signal lives. Concrete examples like methane leak detection, roof damage assessment, and ground subsidence monitoring.",
+      "filename": "03-sensors.m4a",
+      "pub_date": "2026-04-04"
+    },
+    {
+      "number": 4,
+      "slug": "orbits",
+      "title": "Module 04 — Querying the Physical World From Orbit",
+      "description": "Low Earth Orbit, sun-synchronous orbits, geostationary, and what each is good for. Why Planet Labs runs 200-plus small satellites while Maxar runs four large ones. The economics of revisit time. The new SAR constellations. The SpaceX Transporter rideshare revolution and who actually owns the sky in 2026.",
+      "filename": "04-orbits.m4a",
+      "pub_date": "2026-04-05"
+    },
+    {
+      "number": 5,
+      "slug": "data-layer",
+      "title": "Module 05 — Satellite Data: From Pixels to Pipelines",
+      "description": "How raw pixels become queryable analytics. Raster versus vector data, projections and coordinate reference systems, the SpatioTemporal Asset Catalog standard, Cloud-Optimized GeoTIFFs, Zarr, and tiling schemes. How Google Earth Engine and Microsoft Planetary Computer actually work. The unsexy infrastructure layer where most startups die.",
+      "filename": "05-data-layer.m4a",
+      "pub_date": "2026-04-06"
+    },
+    {
+      "number": 6,
+      "slug": "classical-rs",
+      "title": "Module 06 — The Classical Math Behind Satellite AI",
+      "description": "Before machine learning ate everything. Vegetation indices like NDVI, supervised classification with random forests, change detection methods, atmospheric correction, and orthorectification. Why this still matters: it works, the incumbents are built on it, and it's the baseline every modern paper compares against.",
+      "filename": "06-classical-rs.m4a",
+      "pub_date": "2026-04-07"
+    },
+    {
+      "number": 7,
+      "slug": "geo-ml",
+      "title": "Module 07 — From Static Maps to Planetary AI",
+      "description": "The progression from hand-engineered features to convolutional neural networks like U-Net, then to vision transformers, self-supervised pretraining, and multimodal foundation models. Why geospatial machine learning is not just computer vision applied to satellite images. The temporal dynamics, multi-band data, and registration challenges that make this its own field.",
+      "filename": "07-geo-ml.m4a",
+      "pub_date": "2026-04-08"
+    },
+    {
+      "number": 8,
+      "slug": "foundation-models",
+      "title": "Module 08 — Geospatial Foundation Models: From Prithvi to AlphaEarth",
+      "description": "A deep dive on the current foundation models: Prithvi, Clay, TerraMind, AlphaEarth Foundations, DOFA, SatMAE, and SpectralEarth. Plus the weather models GraphCast, Aurora, and Pangu. What each is good at, what data they were trained on, current benchmark rankings, and where the field is heading.",
+      "filename": "08-foundation-models.m4a",
+      "pub_date": "2026-04-09"
+    },
+    {
+      "number": 9,
+      "slug": "fusion",
+      "title": "Module 09 — Why Satellite Intelligence Needs Token-Level Fusion",
+      "description": "The hard part. How do you combine optical imagery, SAR, weather, AIS shipping data, ADS-B aircraft data, news, and filings into one coherent representation? Early versus late versus token-level fusion. Why this is the actual frontier of the field, and why a true world model for Earth is fundamentally a fusion problem.",
+      "filename": "09-fusion.m4a",
+      "pub_date": "2026-04-10"
+    },
+    {
+      "number": 10,
+      "slug": "business",
+      "title": "Module 10 — Where the Money Lives in Orbit",
+      "description": "Who actually pays for geospatial intelligence and how much. Insurance with Cape Analytics and Betterview. Defense and GEOINT with Maxar and BlackSky. Climate measurement, reporting, and verification with Pachama and Sylvera. Commodities and supply chain with Orbital Insight and Kayrros. Why a Bloomberg-for-physical-assets framing fits the asset intelligence thesis.",
+      "filename": "10-business.m4a",
+      "pub_date": "2026-04-11"
+    },
+    {
+      "number": 11,
+      "slug": "startup",
+      "title": "Module 11 — Why Your Geo-AI Model Isn't Enough",
+      "description": "The architectural choices that matter. Build versus buy imagery. Foundation model strategy. Data infrastructure. The labeled-data flywheel. Go-to-market patterns in geospatial. The regulatory tailwinds that create forced demand: EUDR, CSRD, ISSB, and EPA methane rules. Where the moat actually lives.",
+      "filename": "11-startup.m4a",
+      "pub_date": "2026-04-12"
+    },
+    {
+      "number": 12,
+      "slug": "frontiers",
+      "title": "Module 12 — The 2026 Geospatial AI Frontier",
+      "description": "Where the field is genuinely stuck. Registration at scale. Cross-sensor generalization. Temporal reasoning. Causal inference from observation. What the next two to three years probably bring: on-orbit inference, agentic geospatial reasoning, and physical-world simulation. Where a research-first founding team can actually have an edge.",
+      "filename": "12-frontiers.m4a",
+      "pub_date": "2026-04-13"
+    }
+  ]
+}
